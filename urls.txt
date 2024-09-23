@@ -3,4 +3,4 @@ http: http%3A%2F%2Fbackend.course%3Fname%3D%22Roma%22%26github_name%3Dchervanchu
 https://bank.gov.ua/NBUStatService/v1/statdirectory/inflation?date=202302&period=m&json
 http: http%3A%2F%2Fbackend.course%3Fname%3D%22Roma%22%26github_name%3Dchervanchukroma%26group%3D%22FEI-25c%22%26subgroup%3D%222%22%0D%0A
 http://backend.course?name=%22Roma%22&github_name=chervanchukroma&group=%22FEI-25c%22&subgroup=%222%22
-
+http%3A%2F%2Fbackend.course%3Fname%3D%22%D0%A7%D0%B5%D1%80%D0%B2%D0%B0%D0%BD%D1%87%D1%83%D0%BA%20%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%22%26github_name%3Dchervanchukroma%26group%3D%22%D0%A4%D0%95%D0%86-25c%22%26subgroup%3D%22%D0%BF%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%202%22
